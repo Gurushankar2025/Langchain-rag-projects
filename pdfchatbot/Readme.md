@@ -30,7 +30,6 @@ PDFChatbot is designed to answer 10th-grade Maths and Science questions using a 
    
     Both methods are wrapped with ChatHuggingFace so the agent can behave like a chat model and utilize its full potential.
 
-    (Specific models used in Endpoint and Pipeline will be listed separately.)
 
 ---- 
 
