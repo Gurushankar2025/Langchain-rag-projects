@@ -8,7 +8,7 @@ PDFChatbot is designed to answer 10th-grade Maths and Science questions using a 
 
 ## **Implementation**
 
-# **Method 1: Hugging Face Endpoint**
+### **Method 1: Hugging Face Endpoint**
 
  • Uses Hugging Face Inference Endpoint with API token access.
 
@@ -18,7 +18,7 @@ PDFChatbot is designed to answer 10th-grade Maths and Science questions using a 
 
  • Used **deepseek-ai/DeepSeek-R1-0528**
  
-# **Method 2: Hugging Face Pipeline**
+### **Method 2: Hugging Face Pipeline**
 
  • Runs locally with the Hugging Face pipeline API.
 
@@ -28,9 +28,9 @@ PDFChatbot is designed to answer 10th-grade Maths and Science questions using a 
 
  • Used **HuggingFaceH4/zephyr-7b-beta**
    
-   Both methods are wrapped with ChatHuggingFace so the agent can behave like a chat model and utilize its full potential.
+    Both methods are wrapped with ChatHuggingFace so the agent can behave like a chat model and utilize its full potential.
 
-   (Specific models used in Endpoint and Pipeline will be listed separately.)
+    (Specific models used in Endpoint and Pipeline will be listed separately.)
 
 ---- 
 
@@ -64,13 +64,13 @@ PDFChatbot is designed to answer 10th-grade Maths and Science questions using a 
 
 **1. Clone the repository**  
    
-    git clone https://github.com/Gurushankar2025/langchain-rag-projects.git
-    cd langchain-rag-projects/pdfchatbot
+     git clone https://github.com/Gurushankar2025/langchain-rag-projects.git
+     cd langchain-rag-projects/pdfchatbot
 
 **2. Install dependencies**
 
-    pip install -r requirements.txt
+     pip install -r requirements.txt
    
 **3. Run the notebook**
 
-    jupyter notebook PDF_Chatbot.ipynb
+     jupyter notebook PDF_Chatbot.ipynb
