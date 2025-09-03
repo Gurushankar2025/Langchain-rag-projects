@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain-huggingface
+faiss-cpu
+transformers
+torch
+pypdf
+huggingface_hub
+gradio
