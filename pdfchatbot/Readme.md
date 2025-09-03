@@ -54,6 +54,12 @@ PDFChatbot is designed to answer 10th-grade Maths and Science questions using a 
 
 • Python
 
+## Dataset(10th Maths and Science Book pdf)
+
+ • Maths : https://drive.google.com/file/d/1PffYML6YXtLSO3RVnXzDi1gWQkHFLb7N/view?usp=drive_link
+
+ • science : https://drive.google.com/file/d/1vZ7ADefGY4DWDZuEbyn812z12BfcEGuF/view?usp=drive_link
+
 ## **How to Run**
 
 **1. Clone the repository**  
